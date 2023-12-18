@@ -1,11 +1,3 @@
-/** 
-Author:    Build Rise Shine with Nyros (BRS) 
-Created:   2023 
-Library / Component: Script file
-Description: Rock Paper Scissor game logic
-(c) Copyright by BRS with Nyros. 
-**/
-
 // Init player names
 let playerName;
 let playerNameInput = document.getElementById("playerOne");
